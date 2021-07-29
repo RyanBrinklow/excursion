@@ -18,17 +18,18 @@ h2 {
     color: whitesmoke;
 }
 
-a {
-    color: aquamarine;
-    font-size: 16px;
-}
-
 p {
     font-family: Verdana, Geneva, Tahoma, sans-serif;
     font-size: 21px;
     color: gray;
 }
 
-footer {
+footer p {
     text-align: right;
+}
+
+a {
+    text-decoration: underline;
+    color: aquamarine;
+    font-size: 21px;
 }
